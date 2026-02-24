@@ -8,8 +8,9 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Poll SCM commit" );
+        System.out.println( "Poll SCM commit test" );
     }
 }
+
 
 
